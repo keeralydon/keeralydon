@@ -1,0 +1,67 @@
+p {}
+#para1 {
+  	text-align: center;
+    color: mediumpurple;
+    font-family: helvetica;
+    font-size: 20px;
+}
+#para2 {
+  	text-align: right;
+    color: mediumpurple;
+    font-family: helvetica;
+    font-size: 12px;
+}
+#para3 {
+  	text-align: center;
+    color: darkcyan;
+    font-family: helvetica;
+    font-size: 20px;
+}
+#para4 {
+  	text-align: right;
+  	color: darkcyan;
+    font-family: helvetica;
+    font-size: 12px;
+}
+#para5 {
+  	text-align: center;
+  	color: cornflowerblue;
+    font-family: helvetica;
+    font-size: 20px;
+}
+#para6 {
+  	text-align: right;
+  	color: cornflowerblue;
+    font-family: helvetica;
+    font-size: 12px;
+}
+#para7 {
+    text-align:left
+}
+#title {
+  	text-align: center;
+  	color: bisque;
+    font-size: 100px;
+}
+#jokebooks {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+#jokebooks td, #jokebooks th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#jokebooks tr:nth-child(even){background-color: #f2f2f2;}
+
+#jokebooks tr:hover {background-color: #ddd;}
+
+#jokebooks th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #008B8B;
+  color: white;
+}
